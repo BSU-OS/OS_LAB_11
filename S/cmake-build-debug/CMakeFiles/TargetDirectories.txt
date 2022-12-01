@@ -1,0 +1,3 @@
+D:/Important catalog/Projects/C++/OS/Lab11/S/cmake-build-debug/CMakeFiles/S.dir
+D:/Important catalog/Projects/C++/OS/Lab11/S/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Important catalog/Projects/C++/OS/Lab11/S/cmake-build-debug/CMakeFiles/rebuild_cache.dir
